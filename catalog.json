@@ -18,7 +18,7 @@
     "kw": 1.0,
     "defaultSlots": 12,
     "color": "",
-    "behavior": 3,
+    "behavior": 2,
     "modes": [
       { "key": "eko", "label": "Eko", "kw": 0.25, "slots": 42 },
       { "key": "normal", "label": "Normal", "kw": 0.55, "slots": 27 },
@@ -31,12 +31,7 @@
     "kw": 1.0,
     "defaultSlots": 12,
     "color": "",
-    "behavior": 3,
-    "modes": [
-      { "key": "eko", "label": "Eko", "kw": 1.0, "slots": 15 },
-      { "key": "normal", "label": "Normal", "kw": 1.0, "slots": 21 },
-      { "key": "intensiv", "label": "Intensiv", "kw": 1.0, "slots": 30 }
-    ]
+    "behavior": 2
   },
   {
     "type": "ev_charger",
