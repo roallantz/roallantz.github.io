@@ -1,0 +1,91 @@
+[
+  {
+    "type": "washer",
+    "name": "Tvättmaskin",
+    "kw": 1.0,
+    "defaultSlots": 12,
+    "color": "",
+    "behavior": 3,
+    "modes": [
+      { "key": "eko", "label": "Eko", "kw": 0.35, "slots": 36 },
+      { "key": "normal", "label": "Normal", "kw": 0.8, "slots": 21 },
+      { "key": "intensiv", "label": "Intensiv", "kw": 1.4, "slots": 15 }
+    ]
+  },
+  {
+    "type": "dishwasher",
+    "name": "Diskmaskin",
+    "kw": 1.0,
+    "defaultSlots": 12,
+    "color": "",
+    "behavior": 3,
+    "modes": [
+      { "key": "eko", "label": "Eko", "kw": 0.25, "slots": 42 },
+      { "key": "normal", "label": "Normal", "kw": 0.55, "slots": 27 },
+      { "key": "intensiv", "label": "Intensiv", "kw": 1.1, "slots": 15 }
+    ]
+  },
+  {
+    "type": "dryer",
+    "name": "Torktumlare",
+    "kw": 1.0,
+    "defaultSlots": 12,
+    "color": "",
+    "behavior": 3,
+    "modes": [
+      { "key": "eko", "label": "Eko", "kw": 1.0, "slots": 15 },
+      { "key": "normal", "label": "Normal", "kw": 1.0, "slots": 21 },
+      { "key": "intensiv", "label": "Intensiv", "kw": 1.0, "slots": 30 }
+    ]
+  },
+  {
+    "type": "ev_charger",
+    "name": "Elbilsladdare",
+    "kw": 10.0,
+    "defaultSlots": 48,
+    "color": "",
+    "behavior": 2
+  },
+  {
+    "type": "sauna",
+    "name": "Elbastu",
+    "kw": 7.0,
+    "defaultSlots": 12,
+    "color": "",
+    "behavior": 2
+  },
+  {
+    "type": "coffee",
+    "name": "Kaffebryggare",
+    "kw": 1.0,
+    "defaultSlots": 1,
+    "color": "",
+    "behavior": 2
+  },
+  {
+    "type": "oven",
+    "name": "Ugn",
+    "kw": 1.5,
+    "defaultSlots": 18,
+    "color": "",
+    "behavior": 5,
+    "modes": [
+      { "key": "eko", "label": "Lätt användning", "kw": 1.0, "slots": 12 },
+      { "key": "normal", "label": "Medel användning", "kw": 1.5, "slots": 18 },
+      { "key": "intensiv", "label": "Kraftig användning", "kw": 2.5, "slots": 24 }
+    ]
+  },
+  {
+    "type": "spove",
+    "name": "Spis",
+    "kw": 2.0,
+    "defaultSlots": 12,
+    "color": "",
+    "behavior": 5,
+    "modes": [
+      { "key": "eko", "label": "Lätt användning", "kw": 1.2, "slots": 8 },
+      { "key": "normal", "label": "Medel användning", "kw": 2.0, "slots": 12 },
+      { "key": "intensiv", "label": "Kraftig användning", "kw": 3.5, "slots": 16 }
+    ]
+  }
+]

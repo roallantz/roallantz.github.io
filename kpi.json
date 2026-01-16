@@ -1,0 +1,8 @@
+{
+  "show": true,
+  "infoText": "Justerad timmedeleffekt (höglast)",
+  "factor": 60,
+  "unit": "kW",
+  "helpEnabled": true,
+  "helpText": "Beräknas som högsta timmedeleffekt under höglast multiplicerat med faktorvärdet."
+}

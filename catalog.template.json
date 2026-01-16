@@ -1,0 +1,52 @@
+[
+  {
+    "type": "example_ev_charger",
+    "name": "Example EV charger",
+    "kw": 11.0,
+    "defaultSlots": 36,
+    "color": "#00acd6",
+    "behavior": 1
+  },
+  {
+    "type": "example_sauna",
+    "name": "Example sauna",
+    "kw": 6.0,
+    "defaultSlots": 12,
+    "color": "#f6a924",
+    "behavior": 2
+  },
+  {
+    "type": "example_dishwasher",
+    "name": "Example dishwasher",
+    "kw": 0.6,
+    "defaultSlots": 24,
+    "color": "#f8c3c6",
+    "behavior": 3,
+    "modes": [
+      { "key": "eko", "label": "Eco", "kw": 0.3, "slots": 36 },
+      { "key": "normal", "label": "Normal", "kw": 0.6, "slots": 24 },
+      { "key": "intensiv", "label": "Intensive", "kw": 1.0, "slots": 18 }
+    ]
+  },
+  {
+    "type": "example_baseload",
+    "name": "Example baseload",
+    "kw": 0.5,
+    "defaultSlots": 288,
+    "color": "#007da8",
+    "behavior": 4
+  },
+  {
+    "type": "example_oven",
+    "name": "Example oven",
+    "kw": 1.8,
+    "defaultSlots": 18,
+    "color": "#ee7d11",
+    "behavior": 5,
+    "modes": [
+      { "key": "eko", "label": "Light use", "kw": 1.0, "slots": 12 },
+      { "key": "normal", "label": "Normal", "kw": 1.8, "slots": 18 },
+      { "key": "intensiv", "label": "High use", "kw": 2.8, "slots": 24 }
+    ]
+  }
+]

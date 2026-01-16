@@ -1,0 +1,15 @@
+{
+  "intro": [
+    "Lägg till baslaster för att simulera uppvärmning och kyl/frys.",
+    "Lägg till apparater och flytta dem över dygnet för att se hur effekttoppar och energianvändning förändras.",
+    "Ändra säkring för att flytta säkringslinjen i diagrammet."
+  ],
+  "disclaimer": {
+    "title": "Effektvärdena är typiska riktvärden som anger ungefärliga nivåer.",
+    "items": [
+      "Uppvärmningseffekten är en förenklad uppskattning. I verkligheten påverkas värmebehovet mycket av t.ex. isolering och byggår.",
+      "För alla elektriska apparater varierar den faktiska effekten beroende på tillverkare, modell och prisklass.",
+      "Alla elektriska apparater, och i synnerhet, elbilsladdare påverkas i hög grad av eventuell smart styrning samt av hur utrustningen används."
+    ]
+  }
+}
