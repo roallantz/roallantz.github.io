@@ -1,8 +1,8 @@
 {
-  "show": false,
-  "infoText": "Justerad timmedeleffekt (höglast)",
+  "show": true,
+  "infoText": "Estimerad effektavgift",
   "factor": 60,
-  "unit": "kW",
+  "unit": "kr",
   "helpEnabled": true,
-  "helpText": "........."
+  "helpText": "Värdet baseras på antagandet att den aktuella effekttoppen motsvarar månadens högsta nivå, samt att de två övriga effekttopparna ligger på samma nivå."
 }
