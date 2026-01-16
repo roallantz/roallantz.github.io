@@ -18,11 +18,11 @@
     "kw": 1.0,
     "defaultSlots": 12,
     "color": "",
-    "behavior": 2,
+    "behavior":  3,
     "modes": [
-      { "key": "eko", "label": "Eko", "kw": 0.25, "slots": 42 },
-      { "key": "normal", "label": "Normal", "kw": 0.55, "slots": 27 },
-      { "key": "intensiv", "label": "Intensiv", "kw": 1.1, "slots": 15 }
+      { "key": "eko", "label": "Eco", "kw": 0.3, "slots": 36 },
+      { "key": "normal", "label": "Normal", "kw": 0.6, "slots": 24 },
+      { "key": "intensiv", "label": "Intensive", "kw": 1.0, "slots": 18 }
     ]
   },
   {
