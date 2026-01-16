@@ -78,9 +78,9 @@
     "color": "",
     "behavior": 5,
     "modes": [
-      { "key": "eko", "label": "Lätt användning", "kw": 1.2, "slots": 8 },
-      { "key": "normal", "label": "Medel användning", "kw": 2.0, "slots": 12 },
-      { "key": "intensiv", "label": "Kraftig användning", "kw": 3.5, "slots": 16 }
+      { "key": "eko", "label": "Lätt användning", "kw": 0,5, "slots": 8 },
+      { "key": "normal", "label": "Medel användning", "kw": 1.0, "slots": 12 },
+      { "key": "intensiv", "label": "Kraftig användning", "kw": 2.5, "slots": 16 }
     ]
   }
 ]
