@@ -63,7 +63,7 @@
     "kw": 1.5,
     "defaultSlots": 18,
     "color": "",
-    "behavior": 5,
+    "behavior": 3,
     "modes": [
       { "key": "eko", "label": "Över-/undervärme 200 °C", "kw": 1.2, "slots": 12 },
       { "key": "normal", "label": "Varmluft 175 °C", "kw": 1, "slots": 12 },
