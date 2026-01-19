@@ -1,5 +1,6 @@
 {
   "title": "Effektkalkylator - elnät",
   "subtitle": "Utforska hur apparater påverkar timmedeleffekt och energi under ett effektdygn med höglast.",
-  "infoLine": "För bästa upplevelse, använd gärna verktyget på en datorskärm."
+  "infoLine": "För bästa upplevelse, använd gärna verktyget på en datorskärm.",
+  "alternative": "Verktyget fungerar endast via det interna nätverket."
 }
