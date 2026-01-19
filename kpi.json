@@ -1,6 +1,6 @@
 {
   "show": true,
-  "infoText": "Estimerad effektavgift",
+  "infoText": "Uppskattad effektavgift",
   "factor": 60,
   "unit": "kr",
   "helpEnabled": true,
