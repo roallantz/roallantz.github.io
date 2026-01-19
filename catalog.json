@@ -2,7 +2,7 @@
   {
     "type": "washer",
     "name": "Tvättmaskin",
-    "kw": 1.0,
+    "kw": 0.8,
     "defaultSlots": 12,
     "color": "",
     "behavior": 3,
@@ -15,14 +15,14 @@
   {
     "type": "dishwasher",
     "name": "Diskmaskin",
-    "kw": 1.0,
+    "kw": 0.6,
     "defaultSlots": 12,
     "color": "",
     "behavior":  3,
     "modes": [
-      { "key": "eko", "label": "Eco", "kw": 0.3, "slots": 36 },
+      { "key": "eko", "label": "Eko", "kw": 0.3, "slots": 36 },
       { "key": "normal", "label": "Normal", "kw": 0.6, "slots": 24 },
-      { "key": "intensiv", "label": "Intensive", "kw": 1.0, "slots": 18 }
+      { "key": "intensiv", "label": "Intensiv", "kw": 1.0, "slots": 18 }
     ]
   },
   {
@@ -60,20 +60,20 @@
   {
     "type": "oven",
     "name": "Ugn",
-    "kw": 1.5,
+    "kw": 1.2,
     "defaultSlots": 18,
     "color": "",
     "behavior": 3,
     "modes": [
-      { "key": "eko", "label": "Över-/undervärme 200 °C", "kw": 1.2, "slots": 12 },
       { "key": "normal", "label": "Varmluft 175 °C", "kw": 1, "slots": 12 },
+      { "key": "eko", "label": "Över-/undervärme 200 °C", "kw": 1.2, "slots": 12 },
       { "key": "intensiv", "label": "Grill (max)", "kw": 2.2, "slots": 12 }
     ]
   },
   {
     "type": "spove",
     "name": "Spis",
-    "kw": 2.0,
+    "kw": 1.0,
     "defaultSlots": 12,
     "color": "",
     "behavior": 5,
