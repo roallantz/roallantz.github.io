@@ -65,8 +65,8 @@
     "color": "",
     "behavior": 3,
     "modes": [
-      { "key": "normal", "label": "Varmluft 175 °C", "kw": 1, "slots": 12 },
-      { "key": "eko", "label": "Över-/undervärme 200 °C", "kw": 1.2, "slots": 12 },
+      { "key": "eko", "label": "Varmluft 175 °C", "kw": 1, "slots": 12 },
+      { "key": "normal", "label": "Över-/undervärme 200 °C", "kw": 1.2, "slots": 12 },
       { "key": "intensiv", "label": "Grill (max)", "kw": 2.2, "slots": 12 }
     ]
   },
